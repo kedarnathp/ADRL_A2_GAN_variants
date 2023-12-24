@@ -1,3 +1,3 @@
-# ADRL_A2_GAN_variants
 
-## Advanced Deep Representation Learning Course Assignment 2 
+
+## Advanced Deep Representation Learning ADRL Course (IISc) Assignment-2 
